@@ -22,3 +22,17 @@ Regression analysis is a fundamental part of machine learning, often used to pre
 
 ```bash
 pip install -r requirements.txt
+Usage
+Open the Jupyter Notebook Regression_Analysis.ipynb to follow the step-by-step analysis process.
+Run each cell in the notebook to generate visualizations, perform analysis, and evaluate the model.
+Results
+The project demonstrates the following key results:
+
+Initial analysis using Lazy Prediction helps identify promising models quickly.
+GradientBoostingRegressor outperforms other models in the prediction task.
+The trained model achieves a high R2 score, low MAE, and MSE, indicating its effectiveness in making accurate predictions.
+Contributing
+Contributions to this project are welcome. You can contribute by opening an issue to suggest improvements or by submitting a pull request with enhancements.
+
+License
+This project is licensed under the doruq-IT License.
